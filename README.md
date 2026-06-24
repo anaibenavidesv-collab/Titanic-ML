@@ -31,11 +31,11 @@ overfitting e importancia de variables.
 
 ## Cómo ejecutar
 
-### Opción A — Google Colab (recomendada)
-1. Abre `titanic_clasificacion_ML_final.ipynb` en [Google Colab](https://colab.research.google.com)
-   (Archivo → Subir cuaderno).
-2. Sube `train.csv` y `test.csv` al panel de archivos (icono de carpeta).
-3. Entorno de ejecución → **Ejecutar todo**.
+### Opción A — Google Colab (recomendada, un clic)
+1. Abre el notebook directamente en Colab:
+   <https://colab.research.google.com/github/anaibenavidesv-collab/Titanic-ML/blob/main/titanic_clasificacion_ML_final.ipynb>
+2. Entorno de ejecución → **Ejecutar todo**. Los datos (`train.csv` y `test.csv`) se descargan
+   automáticamente desde este repositorio, no hace falta subir ningún archivo.
 
 ### Opción B — Local
 ```bash
